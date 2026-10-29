@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-QueryPal is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by sequoia-capital) and added to the network as a stub for full-pipeline profiling.
-- https://www.querypal.com/
+QueryPal provides an agentic AI-powered customer service platform that transforms any application into a self‑driving product. Unlike traditional chatbots, QueryPal's AI researches, reasons, and resolves complex Tier 3 support issues within the customer's secure cloud environment, cutting resolution times in half and dramatically reducing support costs while boosting satisfaction. Backed by Sequoia Capital, the solution scales operations without increasing headcount, offering a seamless, privacy‑first experience for enterprises.
+
+**Areas:** Company · AI · Customer Service · Enterprise · SaaS
+
+## QueryPal on APIs.io
+
+Everything profiled for QueryPal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/querypal/](https://apis.io/providers/querypal/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [QueryPal API](https://apis.io/apis/querypal/querypal-api/) — QueryPal provides an AI‑powered customer service platform; the public website offers documentation but no machine‑readable API contract was found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Querypal Domain Security](https://apis.io/security/querypal/querypal-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.querypal.com/)
+- [Getting started](https://querypal.com/book-a-demo)
+- [Blog](https://querypal.com/blog/jetbrains)
+- [Terms of service](https://querypal.com/terms-and-conditions)
+- [Privacy policy](https://querypal.com/privacy-policy)
+- [GitHub](https://github.com/querypal)
+
+## API Evangelist rating
+
+**Kin Score 15.8** — emerging · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/querypal/](https://apis.io/providers/querypal/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for QueryPal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/querypal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
